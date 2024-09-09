@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/akiarostami/sveltekit-tailwind-blog-starter"><img src="static/logo.png" alt="Sveltekit Tailwind Blog Starter" width="200"></a>
+  <a href="https://github.com/harshascode/sveltekit-tailwind-blog-template"><img src="static/logo.png" alt="Sveltekit Tailwind Blog Template" width="200"></a>
   <br>
   Sveltekit Tailwind Blog Starter
   <br>
@@ -136,15 +136,5 @@ Beside all the open-source packages used for this starter, I used or were inspir
 
 - and of course, HBO's [Silicon Valley](https://www.hbo.com/silicon-valley)
 
-## Support
-
-Support this template and effort by giving it a star on GitHub, sharing your own blog, and giving a shout-out on [Twitter](https://twitter.com/akiarostami).
-
-## License
-
-[MIT](https://github.com/akiarostami/sveltekit-tailwind-blog-starter/blob/master/LICENSE) © [Ahmad Kiarostami](https://www.ahmadkiarostami.com)
 
 ---
-
-> @akiarostami on
-> [GitHub](https://github.com/akiarostami) &nbsp;&middot;&nbsp; > [Twitter](https://twitter.com/akiarostami) &nbsp;&middot;&nbsp; > [Instagram](https://instagram.com/akiarostami) &nbsp;&middot;&nbsp; > [Web](https://www.ahmadkiarostami.com)
