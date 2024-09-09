@@ -19,23 +19,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#deploy">Deploy</a> •
-  <a href="#managing-the-content">Managing the Content</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
-</p>
-
 ![screenshot](https://repository-images.githubusercontent.com/568981651/e6608d38-83e4-42b0-9733-098e94198911)
-
-## About Sveltekit Tailwind Blog Starter
-
-I've been looking for a good, flexible template for [SvelteKit](https://kit.svelte.dev/) / [Tailwind CSS](https://tailwindcss.com/), but all the templates I found were either too simple, missing some needed features, or were too difficult to customize (or both). I loved [Timothy Lin](https://github.com/timlrx/)'s simple but feature-rich [Tailwind Nextjs Started Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog), so I decided to port that to SvelteKit, and add a few things I needed, including [Netlify CMS](https://www.netlifycms.org/), dynamic [Open Graph](https://ogp.me/) image (og:image) support.
-
-This is my first attempt to write something in SvelteKit. **Most probably, I won't be maintaining this template much, and won't be adding features to it.** Feel free to grab a copy and use it as you wish.
 
 ## Key Features
 
