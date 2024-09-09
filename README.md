@@ -23,7 +23,7 @@
 
 ## Key Features
 
-- [x] Written for [SvelteKit](https://kit.svelte.dev/) (latest RC version)
+- [x] Written for [SvelteKit](https://kit.svelte.dev/) (latest 2.5.24)
 - [x] Easy style customization with [Tailwind 3](https://tailwindcss.com/)
 - [x] Great lighthouse score - [Lighthouse report](https://www.webpagetest.org/result/221212_BiDc65_FQC/)
 - [x] Mobile-friendly view
